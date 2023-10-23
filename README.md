@@ -2,7 +2,7 @@
 This is an Personal Portpolio Website .
 # 📱 Technologies / Tools used for building this app includes: 
 - HTML 
- - CSS
+- CSS
 # Screenshots
 ![Screenshot (12)](https://github.com/Gauravshukl/Portpolio-website/assets/48097137/fc369a85-7a51-4000-a987-f873b688d138)
 ![Screenshot (13)](https://github.com/Gauravshukl/Portpolio-website/assets/48097137/be128a1c-96a5-4988-b7cd-37b3415c723d)
